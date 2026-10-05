@@ -1,0 +1,6 @@
+.direnv
+.envrc
+.cache
+*.out
+app
+compile_commands.json
