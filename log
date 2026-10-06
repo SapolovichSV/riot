@@ -1,0 +1,296 @@
+INIT_LOG 36511 Tue Oct  6 19:22:24 2026
+
+time = Tue Oct  6 19:22:25 2026
+ pid = 36513 counter = 3
+time = Tue Oct  6 19:22:26 2026
+ pid = 36513 counter = 6
+COPY_1_START pid = 36518 time= Tue Oct  6 19:22:27 2026
+
+COPY_2_START pid = 36519 time= Tue Oct  6 19:22:27 2026
+
+COPY_1_END pid = 36518 time Tue Oct  6 19:22:27 2026
+
+time = Tue Oct  6 19:22:27 2026
+ pid = 36513 counter = 38
+time = Tue Oct  6 19:22:28 2026
+ pid = 36513 counter = 42
+COPY_2_END pid = 36519 time Tue Oct  6 19:22:29 2026
+
+time = Tue Oct  6 19:22:29 2026
+ pid = 36513 counter = 22
+COPY_1_START pid = 36520 time= Tue Oct  6 19:22:30 2026
+
+COPY_2_START pid = 36521 time= Tue Oct  6 19:22:30 2026
+
+COPY_1_END pid = 36520 time Tue Oct  6 19:22:30 2026
+
+time = Tue Oct  6 19:22:30 2026
+ pid = 36513 counter = 71
+time = Tue Oct  6 19:22:31 2026
+ pid = 36513 counter = 74
+COPY_2_END pid = 36521 time Tue Oct  6 19:22:32 2026
+
+time = Tue Oct  6 19:22:32 2026
+ pid = 36513 counter = 38
+COPY_1_START pid = 36524 time= Tue Oct  6 19:22:33 2026
+
+COPY_2_START pid = 36525 time= Tue Oct  6 19:22:33 2026
+
+COPY_1_END pid = 36524 time Tue Oct  6 19:22:33 2026
+
+time = Tue Oct  6 19:22:33 2026
+ pid = 36513 counter = 103
+time = Tue Oct  6 19:22:34 2026
+ pid = 36513 counter = 106
+COPY_2_END pid = 36525 time Tue Oct  6 19:22:35 2026
+
+time = Tue Oct  6 19:22:35 2026
+ pid = 36513 counter = 54
+COPY_1_START pid = 36668 time= Tue Oct  6 19:22:36 2026
+
+COPY_1_END pid = 36668 time Tue Oct  6 19:22:36 2026
+
+COPY_2_START pid = 36669 time= Tue Oct  6 19:22:36 2026
+
+time = Tue Oct  6 19:22:36 2026
+ pid = 36513 counter = 135
+time = Tue Oct  6 19:22:37 2026
+ pid = 36513 counter = 138
+COPY_2_END pid = 36669 time Tue Oct  6 19:22:38 2026
+
+time = Tue Oct  6 19:22:38 2026
+ pid = 36513 counter = 70
+COPY_1_START pid = 36672 time= Tue Oct  6 19:22:39 2026
+
+COPY_1_END pid = 36672 time Tue Oct  6 19:22:39 2026
+
+COPY_2_START pid = 36673 time= Tue Oct  6 19:22:39 2026
+
+time = Tue Oct  6 19:22:39 2026
+ pid = 36513 counter = 167
+time = Tue Oct  6 19:22:40 2026
+ pid = 36513 counter = 170
+COPY_2_END pid = 36673 time Tue Oct  6 19:22:41 2026
+
+time = Tue Oct  6 19:22:41 2026
+ pid = 36513 counter = 87
+COPY_1_START pid = 36677 time= Tue Oct  6 19:22:42 2026
+
+COPY_1_END pid = 36677 time Tue Oct  6 19:22:42 2026
+
+COPY_2_START pid = 36678 time= Tue Oct  6 19:22:42 2026
+
+time = Tue Oct  6 19:22:42 2026
+ pid = 36513 counter = 207
+time = Tue Oct  6 19:22:43 2026
+ pid = 36513 counter = 214
+COPY_2_END pid = 36678 time Tue Oct  6 19:22:44 2026
+
+time = Tue Oct  6 19:22:44 2026
+ pid = 36513 counter = 110
+COPY_1_START pid = 36681 time= Tue Oct  6 19:22:45 2026
+
+COPY_2_START pid = 36682 time= Tue Oct  6 19:22:45 2026
+
+COPY_1_END pid = 36681 time Tue Oct  6 19:22:45 2026
+
+time = Tue Oct  6 19:22:45 2026
+ pid = 36513 counter = 253
+time = Tue Oct  6 19:22:46 2026
+ pid = 36513 counter = 260
+COPY_2_END pid = 36682 time Tue Oct  6 19:22:47 2026
+
+time = Tue Oct  6 19:22:47 2026
+ pid = 36513 counter = 133
+COPY_1_START pid = 36829 time= Tue Oct  6 19:22:48 2026
+
+COPY_2_START pid = 36830 time= Tue Oct  6 19:22:48 2026
+
+COPY_1_END pid = 36829 time Tue Oct  6 19:22:48 2026
+
+time = Tue Oct  6 19:22:48 2026
+ pid = 36513 counter = 299
+time = Tue Oct  6 19:22:49 2026
+ pid = 36513 counter = 308
+COPY_2_END pid = 36830 time Tue Oct  6 19:22:50 2026
+
+time = Tue Oct  6 19:22:50 2026
+ pid = 36513 counter = 158
+COPY_1_START pid = 36835 time= Tue Oct  6 19:22:51 2026
+
+COPY_2_START pid = 36836 time= Tue Oct  6 19:22:51 2026
+
+COPY_1_END pid = 36835 time Tue Oct  6 19:22:51 2026
+
+time = Tue Oct  6 19:22:51 2026
+ pid = 36513 counter = 355
+time = Tue Oct  6 19:22:52 2026
+ pid = 36513 counter = 366
+COPY_2_END pid = 36836 time Tue Oct  6 19:22:53 2026
+
+time = Tue Oct  6 19:22:53 2026
+ pid = 36513 counter = 187
+COPY_1_START pid = 36840 time= Tue Oct  6 19:22:54 2026
+
+COPY_1_END pid = 36840 time Tue Oct  6 19:22:54 2026
+
+COPY_2_START pid = 36841 time= Tue Oct  6 19:22:54 2026
+
+time = Tue Oct  6 19:22:54 2026
+ pid = 36513 counter = 413
+time = Tue Oct  6 19:22:55 2026
+ pid = 36513 counter = 424
+COPY_2_END pid = 36841 time Tue Oct  6 19:22:56 2026
+
+time = Tue Oct  6 19:22:56 2026
+ pid = 36513 counter = 216
+COPY_1_START pid = 36842 time= Tue Oct  6 19:22:57 2026
+
+COPY_2_START pid = 36843 time= Tue Oct  6 19:22:57 2026
+
+COPY_1_END pid = 36842 time Tue Oct  6 19:22:57 2026
+
+time = Tue Oct  6 19:22:57 2026
+ pid = 36513 counter = 471
+time = Tue Oct  6 19:22:58 2026
+ pid = 36513 counter = 482
+COPY_2_END pid = 36843 time Tue Oct  6 19:22:59 2026
+
+time = Tue Oct  6 19:22:59 2026
+ pid = 36513 counter = 245
+COPY_1_START pid = 36846 time= Tue Oct  6 19:23:00 2026
+
+COPY_2_START pid = 36847 time= Tue Oct  6 19:23:00 2026
+
+COPY_1_END pid = 36846 time Tue Oct  6 19:23:00 2026
+
+time = Tue Oct  6 19:23:00 2026
+ pid = 36513 counter = 529
+time = Tue Oct  6 19:23:01 2026
+ pid = 36513 counter = 540
+COPY_2_END pid = 36847 time Tue Oct  6 19:23:02 2026
+
+time = Tue Oct  6 19:23:02 2026
+ pid = 36513 counter = 274
+COPY_1_START pid = 36850 time= Tue Oct  6 19:23:03 2026
+
+COPY_1_END pid = 36850 time Tue Oct  6 19:23:03 2026
+
+COPY_2_START pid = 36851 time= Tue Oct  6 19:23:03 2026
+
+time = Tue Oct  6 19:23:03 2026
+ pid = 36513 counter = 587
+time = Tue Oct  6 19:23:04 2026
+ pid = 36513 counter = 598
+COPY_2_END pid = 36851 time Tue Oct  6 19:23:05 2026
+
+time = Tue Oct  6 19:23:05 2026
+ pid = 36513 counter = 303
+COPY_1_START pid = 36860 time= Tue Oct  6 19:23:06 2026
+
+COPY_1_END pid = 36860 time Tue Oct  6 19:23:06 2026
+
+COPY_2_START pid = 36861 time= Tue Oct  6 19:23:06 2026
+
+time = Tue Oct  6 19:23:06 2026
+ pid = 36513 counter = 645
+time = Tue Oct  6 19:23:07 2026
+ pid = 36513 counter = 656
+COPY_2_END pid = 36861 time Tue Oct  6 19:23:08 2026
+
+time = Tue Oct  6 19:23:08 2026
+ pid = 36513 counter = 332
+COPY_2_START pid = 36865 time= Tue Oct  6 19:23:09 2026
+
+COPY_1_START pid = 36864 time= Tue Oct  6 19:23:09 2026
+
+COPY_1_END pid = 36864 time Tue Oct  6 19:23:09 2026
+
+time = Tue Oct  6 19:23:09 2026
+ pid = 36513 counter = 693
+time = Tue Oct  6 19:23:10 2026
+ pid = 36513 counter = 704
+COPY_2_END pid = 36865 time Tue Oct  6 19:23:11 2026
+
+time = Tue Oct  6 19:23:11 2026
+ pid = 36513 counter = 356
+COPY_1_START pid = 36869 time= Tue Oct  6 19:23:12 2026
+
+COPY_2_START pid = 36870 time= Tue Oct  6 19:23:12 2026
+
+COPY_1_END pid = 36869 time Tue Oct  6 19:23:12 2026
+
+time = Tue Oct  6 19:23:12 2026
+ pid = 36513 counter = 21
+time = Tue Oct  6 19:23:13 2026
+ pid = 36513 counter = 32
+COPY_2_END pid = 36870 time Tue Oct  6 19:23:14 2026
+
+time = Tue Oct  6 19:23:14 2026
+ pid = 36513 counter = 20
+COPY_1_START pid = 36872 time= Tue Oct  6 19:23:15 2026
+
+COPY_1_END pid = 36872 time Tue Oct  6 19:23:15 2026
+
+COPY_2_START pid = 36873 time= Tue Oct  6 19:23:15 2026
+
+time = Tue Oct  6 19:23:15 2026
+ pid = 36513 counter = 79
+time = Tue Oct  6 19:23:16 2026
+ pid = 36513 counter = 90
+COPY_2_END pid = 36873 time Tue Oct  6 19:23:17 2026
+
+time = Tue Oct  6 19:23:17 2026
+ pid = 36513 counter = 49
+COPY_1_START pid = 36874 time= Tue Oct  6 19:23:18 2026
+
+COPY_1_END pid = 36874 time Tue Oct  6 19:23:18 2026
+
+COPY_2_START pid = 36875 time= Tue Oct  6 19:23:18 2026
+
+time = Tue Oct  6 19:23:18 2026
+ pid = 36513 counter = 137
+time = Tue Oct  6 19:23:19 2026
+ pid = 36513 counter = 148
+COPY_2_END pid = 36875 time Tue Oct  6 19:23:20 2026
+
+time = Tue Oct  6 19:23:20 2026
+ pid = 36513 counter = 78
+COPY_1_START pid = 36877 time= Tue Oct  6 19:23:21 2026
+
+COPY_1_END pid = 36877 time Tue Oct  6 19:23:21 2026
+
+COPY_2_START pid = 36878 time= Tue Oct  6 19:23:21 2026
+
+time = Tue Oct  6 19:23:21 2026
+ pid = 36513 counter = 21
+time = Tue Oct  6 19:23:22 2026
+ pid = 36513 counter = 32
+COPY_2_END pid = 36878 time Tue Oct  6 19:23:23 2026
+
+time = Tue Oct  6 19:23:23 2026
+ pid = 36513 counter = 20
+COPY_1_START pid = 36880 time= Tue Oct  6 19:23:24 2026
+
+COPY_2_START pid = 36881 time= Tue Oct  6 19:23:24 2026
+
+COPY_1_END pid = 36880 time Tue Oct  6 19:23:24 2026
+
+time = Tue Oct  6 19:23:24 2026
+ pid = 36513 counter = 79
+time = Tue Oct  6 19:23:25 2026
+ pid = 36513 counter = 4
+COPY_2_END pid = 36881 time Tue Oct  6 19:23:26 2026
+
+time = Tue Oct  6 19:23:26 2026
+ pid = 36513 counter = 6
+COPY_1_START pid = 36886 time= Tue Oct  6 19:23:27 2026
+
+COPY_2_START pid = 36887 time= Tue Oct  6 19:23:27 2026
+
+COPY_1_END pid = 36886 time Tue Oct  6 19:23:27 2026
+
+time = Tue Oct  6 19:23:27 2026
+ pid = 36513 counter = 51
+time = Tue Oct  6 19:23:28 2026
+ pid = 36513 counter = 57
